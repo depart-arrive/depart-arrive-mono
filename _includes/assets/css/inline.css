@@ -40,7 +40,7 @@ a[href]:visited {
 
 a[href]:not(:hover) {
 	text-decoration: none;
-	border: 2.5px solid var(--primary);
+	border-bottom: 2.5px solid var(--primary);
 }
 
 img {
