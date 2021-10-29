@@ -64,7 +64,7 @@ main > article :first-child {
 }
 
 pre {
-	font-size: 14px;
+	font-size: 13px;
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
@@ -175,7 +175,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: 'SF Mono', SFMono-Regular, ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace;
 }
 
 input,
@@ -192,6 +192,6 @@ button {
 
 @media screen and (min-width:768px) {
 	:root {
-		font-size: 1rem;
+		font-size: 0.9rem;
 	}
 }
