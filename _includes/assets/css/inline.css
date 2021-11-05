@@ -13,6 +13,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: 'SF Mono', SFMono-Regular, ui-monospace, 'DejaVu Sans Mono', Menlo, Consolas, monospace;
+	overflow-x: hidden;
 }
 }
 
@@ -47,7 +48,7 @@ img {
 	height: auto;
 	margin-left: -7%;
 	margin-right: 7%;
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 header,
