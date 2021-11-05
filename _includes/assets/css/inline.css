@@ -47,7 +47,7 @@ img {
 	height: auto;
 	margin-left: -7%;
 	margin-right: 7%;
-	overflow-x: hidden;
+	overflow: hidden;
 }
 
 header,
