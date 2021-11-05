@@ -119,8 +119,15 @@ header nav li a[data-current="current item"] {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--secondary);
+	border-bottom: 1px solid #000;
+	border-bottom: 1px solid var(--primary);
+}
+
+hr {
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #000;
+	border-bottom: 1px solid var(--primary);
 }
 
 main > section > article > * {
