@@ -43,7 +43,7 @@ a[href]:not(:hover) {
 }
 
 img {
-	max-width: 100%;
+	max-width: 114%;
 	height: auto;
 	margin-left: -7%;
 	margin-right: 7%;
@@ -79,7 +79,7 @@ pre {
 	-ms-hyphens: none;
 	hyphens: none;
 	padding: 1em;
-	margin: 2em 0;
+	margin: 8em 0;
 }
 
 /* Header Logo (style as h2) */
@@ -201,6 +201,6 @@ button {
 
 @media screen and (min-width:768px) {
 	:root {
-		font-size: 0.8rem;
+		font-size: 0.9rem;
 	}
 }
